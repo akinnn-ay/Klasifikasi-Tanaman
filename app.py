@@ -1,5 +1,12 @@
 from pathlib import Path
+import sys
+
+print("Python executable:", sys.executable)
+print("Python version:", sys.version)
+
 import joblib
+print("Joblib location:", joblib.__file__)
+
 import numpy as np
 import pandas as pd
 import streamlit as st
