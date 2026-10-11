@@ -28,8 +28,8 @@ st.markdown(
     .subtitle {color:#64748b;margin-bottom:1.25rem;}
     div[data-testid="stMetric"] {background:#f0fdf4;border:1px solid #bbf7d0;padding:1rem;border-radius:14px;}
     </style>
-    <div class="main-title">🌱 AI Rekomendasi Tanaman</div>
-    <div class="subtitle">Uji model klasifikasi tanaman berdasarkan unsur hara tanah dan kondisi iklim.</div>
+    <div class="main-title">🌱 AI Rekomendasi Tanaman Berbasis Klasifikasi</div>
+    <div class="subtitle">Uji model klasifikasi tanaman berdasarkan unsur hara tanah dan kondisi iklim (SDGs 2/ Kelompok 2).</div>
     """,
     unsafe_allow_html=True,
 )
