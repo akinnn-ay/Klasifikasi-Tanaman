@@ -1,4 +1,4 @@
-# AI Rekomendasi Tanaman — Streamlit
+# AI Rekomendasi Tanaman — Streamlit - SGDs 2 / Oleh Kelompok 2
 
 Aplikasi sederhana untuk menguji model klasifikasi tanaman berdasarkan tujuh fitur: `N`, `P`, `K`, `temperature`, `humidity`, `ph`, dan `rainfall`.
 
